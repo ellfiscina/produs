@@ -50,7 +50,7 @@ void loop() {
   }
 
   //delay(3600000); 
-  delay(10000); 
+  delay(5000); 
 }
 
 String chlorophyllMeter(){
